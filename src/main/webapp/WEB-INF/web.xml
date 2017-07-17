@@ -16,4 +16,14 @@
     <servlet-name>hello.html</servlet-name>
     <url-pattern>/hello.html</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>docker.html</display-name>
+    <servlet-name>docker.html</servlet-name>
+    <servlet-class>com.boonya.jenkins.docker.servlet.DockerServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>docker.html</servlet-name>
+    <url-pattern>/docker.html</url-pattern>
+  </servlet-mapping>
 </web-app>
