@@ -8,8 +8,11 @@
 </head>
 <body>
 
-<h1>Docker Main Page</h1>
-
-<br/><br/><br/>Here is jenkins-docker's main page!</body>
+<h1 style='color:red;' align='center'>Docker Main Page</h1>
+<div tyle='width:100%;height:300px;background-color:yellow;'>
+Here is jenkins-docker's main page!
+</div>
+    
+</body>
 
 </html>
